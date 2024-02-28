@@ -1,0 +1,14 @@
+.new-todo_form {
+  display: flex;
+  justify-content: space-between;
+  height: 40px;
+  margin: 0 auto 20px auto;
+}
+.new-todo_input {
+  border: 1px solid black;
+  width: 100%;
+  outline: none;
+  font-size: inherit;
+  padding: 15px;
+  margin-right: 15px;
+}
